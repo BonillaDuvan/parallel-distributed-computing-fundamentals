@@ -1,0 +1,16 @@
+# Ejecutables de C
+*.exe
+*.out
+*.o
+
+# Archivos temporales
+*.tmp
+*.log
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
