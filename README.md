@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # parallel-distributed-computing-fundamentals
 
 Soluciones del Taller de Repaso en Programación en C.
@@ -40,6 +39,3 @@ Ejecutar en Windows:
 ```
 
 Repetir cambiando el nombre del archivo para cada ejercicio.
-=======
-# parallel-distributed-computing-fundamentals
->>>>>>> 5f5cf313b7bb1e8fca969f91a8d101f69f158de7
